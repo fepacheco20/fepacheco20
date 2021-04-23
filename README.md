@@ -1,4 +1,4 @@
-![capa](C:\Users\Jorge\Workspace\Github\fepacheco20\capa.jpeg)
+![capa](capa.jpeg)
 
 ### Hi there, I'm Fernanda 👋
 
